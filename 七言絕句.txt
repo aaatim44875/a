@@ -1,0 +1,9 @@
+import java.io.*; 
+ 
+class IO1 { 
+ public static void main(String[] args) throws Exception { 
+ System.out.print("月落烏啼霜滿天，江楓漁火對愁眠"); 
+ System.out.print("姑蘇城外寒山寺，夜半鐘聲到客船");
+ 
+ } 
+} 
